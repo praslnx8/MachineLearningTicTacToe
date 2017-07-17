@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2e2f41</color>
+    <color name="primary_dark">#D32F2F</color>
+    <color name="primary_light">#FFCDD2</color>
+    <color name="accent">@color/primary</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="colorPrimary">@color/primary</color>
+    <color name="colorPrimaryDark">@color/primary</color>
+    <color name="colorAccent">@color/accent</color>
+    <color name="white">#FFFFFF</color>
+    <color name="fb_blue">#416BC1</color>
+    <color name="nav_bg">#2e2f41</color>
+    <color name="nav_text">#707183</color>
+
+    <color name="search_layover_bg">#50000000</color>
+
+    <color name="color_accent">#7c4dff</color>
+    <color name="color_success">#3CCD88</color>
+    <color name="color_error">#f44336</color>
+
+    <color name="home_background">#2e2f41</color>
+    <color name="home_light_profile_background">#c8393a4b</color>
+    <color name="start_button">#3cd6d7</color>
+    <color name="pause_button">#e2cb4c</color>
+    <color name="stop_button">#dc7169</color>
+    <color name="stop_button_swipe">#f44336</color>
+
+
+    <color name="radial_ring">#3cd6d7</color>
+    <color name="label_text">#7d7f8e</color>
+    <color name="value_text">#FFFFFF</color>
+    <color name="menu_bg">#0a0b21</color>
+
+    <color name="cover_bg_color">#0a0b20</color>
+    <color name="cover_text_color">#0a0b20</color>
+
+    <color name="dash_divider">#567d7f8e</color>
+
+
+
+
+
+    <color name="lime">#CDDC39</color>
+    <color name="green">#84AA74</color>
+    <color name="darkGreen">#278300</color>
+    <color name="yellow">#F2EFA7</color>
+    <color name="lightYellow">#f4f4b2</color>
+    <color name="amber">#FFC107</color>
+    <color name="orange">#FF5722</color>
+    <color name="red">#F74D48</color>
+    <color name="maroon">#CD100E</color>
+    <color name="pink">#FF4081</color>
+    <color name="purple">#9C27B0</color>
+    <color name="blue">#679DE0</color>
+    <color name="darkBlue">#4587D9</color>
+    <color name="lightBlue">#03A9F4</color>
+
+    <color name="black">#000000</color>
+    <color name="gray1">#111214</color>
+    <color name="gray2">#262729</color>
+    <color name="gray3">#32383F</color>
+    <color name="gray4">#50555C</color>
+    <color name="gray5">#8297B2</color>
+    <color name="lgray1">#F3F6FA</color>
+    <color name="lgray2">#E6E9EE</color>
+    <color name="lgray3">#D2D6DD</color>
+    <color name="lgray4">#C8CDD6</color>
+    <color name="lgray5">#BDC1CA</color>
+    <color name="lgray6">#A9ADB5</color>
+    <color name="lgray7">#AAAAAA</color>
+
+    <!-- Transparent shades of all colors used -->
+    <color name="tblack">#66000000</color>
+    <color name="tgray1">#33111214</color>
+    <color name="tgray2">#AA262729</color>
+    <color name="tgray3">#AA32383F</color>
+    <color name="tgray4">#AA50555C</color>
+    <color name="tgray5">#AA8297B2</color>
+    <color name="tlgray1">#DDF3F6FA</color>
+    <color name="tlgray2">#66E6E9EE</color>
+    <color name="tlgray3">#EED2D6DD</color>
+    <color name="tlgray4">#CCC8CDD6</color>
+    <color name="tlgray5">#AABDC1CA</color>
+    <color name="tlgray6">#AAA9ADB5</color>
+    <color name="tlgray7">#AAAAAAAA</color>
+    <color name="twhite">#AAFFFFFF</color>
+    <color name="tbrand">#16679DE0</color>
+
+    <color name="tlime">#11CDDC39</color>
+    <color name="tgreen">#1184AA74</color>
+    <color name="tdarkGreen">#446F985D</color>
+    <color name="tyellow">#44F2EFA7</color>
+    <color name="tlightYellow">#44f4f4b2</color>
+    <color name="tamber">#44FFC107</color>
+    <color name="torange">#44FF5722</color>
+    <color name="tred">#44F74D48</color>
+    <color name="tmaroon">#44CD100E</color>
+    <color name="tpink">#44FF4081</color>
+    <color name="tpurple">#449C27B0</color>
+    <color name="tblue">#44679DE0</color>
+    <color name="tdarkBlue">#444587D9</color>
+    <color name="tlightBlue">#4403A9F4</color>
+
+    <color name="bg_lime">#99CDDC39</color>
+    <color name="bg_green">#9984AA74</color>
+    <color name="bg_darkGreen">#996F985D</color>
+    <color name="bg_yellow">#99F2EFA7</color>
+    <color name="bg_lightYellow">#99f4f4b2</color>
+    <color name="bg_amber">#99FFC107</color>
+    <color name="bg_orange">#99FF5722</color>
+    <color name="bg_red">#99F74D48</color>
+    <color name="bg_maroon">#99CD100E</color>
+    <color name="bg_pink">#99FF4081</color>
+    <color name="bg_purple">#999C27B0</color>
+    <color name="bg_blue">#99679DE0</color>
+    <color name="bg_darkBlue">#994587D9</color>
+    <color name="bg_lightBlue">#9903A9F4</color>
+</resources>
